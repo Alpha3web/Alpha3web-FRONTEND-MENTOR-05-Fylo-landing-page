@@ -46,6 +46,7 @@ nav.grid {
     margin: 20px 15px;
     padding: 10px;
     align-items: center;
+    background-color: var(--Dark-Blue-1);
 }
 
 nav.grid img:first-child {
